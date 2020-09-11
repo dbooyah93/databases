@@ -26,10 +26,10 @@ USE chat;
 --     REFERENCES rooms(id)
 -- );
 
-CREATE TABLE friends (
-  id INT NOT NULL,
-  name CHAR (255)
-);
+-- CREATE TABLE friends (
+--   id INT NOT NULL,
+--   name CHAR (255)
+-- );
 
 /* Create other tables and define schemas for them here! */
 
